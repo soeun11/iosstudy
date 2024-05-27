@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  KakaoLogin
+//
+//  Created by 임소은 on 5/24/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+KAKAONATIVE_APP_KEY = 06e8714bf7587cd2f43d77b5b303e802
